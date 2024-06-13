@@ -1,1 +1,2 @@
-# Keylogger-_and_-security-
+[{"Pressed": "'k'"}, {"Held": "'k'"}, {"Released": "'k'"}, {"Pressed": "'a'"}, {"Held": "'a'"}, {"Released": "'a'"}, {"Pressed": "'l'"}, {"Held": "'l'"}, {"Released": "'l'"}, {"Pressed": "'i'"}, {"Held": "'i'"}, {"Released": "'i'"}, {"Pressed": "Key.space"}, {"Held": "Key.space"}, {"Released": "Key.space"}, {"Pressed": "'l'"}, {"Held": "'l'"}, {"Released": "'l'"}, {"Pressed": "'i'"}, {"Held": "'i'"}, {"Released": "'i'"}, {"Pressed": "'n'"}, {"Held": "'n'"}, {"Released": "'n'"}, {"Pressed": "'u'"}, {"Held": "'u'"}, {"Released": "'u'"}, {"Pressed": "'x'"}, {"Held": "'x'"}, {"Released": "'x'"}]
+ Keylogger-_and_-security-
